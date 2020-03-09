@@ -23,6 +23,7 @@
     "express": "^4.17.1",
     "flow": "^0.2.3",
     "flow-maintained": "^0.2.4",
-    "redis": "^3.0.2"
+    "redis": "^3.0.2",
+    "socket.io": "^2.3.0"
   }
 }
